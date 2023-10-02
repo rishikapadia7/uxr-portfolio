@@ -1,6 +1,5 @@
 # This is a comment
 remote_theme: pages-themes/cayman@v0.2.0
-title: Rishi Kapadia
 description: Welcome to my UX Researcher Portfolio.
 
 plugins:
