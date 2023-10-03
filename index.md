@@ -13,7 +13,7 @@ This research led to the creation of Avra Labs Eye Control. Youtube video:<br />
 
 ## Usability Research
 _Evaluate different groupings of design alternatives for countdown animations, and recommend the best design to proceed with.<br />_
-**Skills:** Moderated Interview, Wireframes, Prototypes<br />
+**Skills:** Moderated Interviews, Wireframes, Prototypes<br />
 **Tools:** Excel, Powerpoint, UserTesting.com<br />
 [![How to display 10 second countdown?](https://github.com/rishikapadia7/uxr-portfolio/assets/3195747/e3920f79-361a-4daa-baeb-eda8f701611f)](https://onedrive.live.com/view.aspx?resid=1F24325A97A0C49E!5287&ithint=file%2cpptx&wdo=2&authkey=!AFyoeSh2u_VF_No)
 [View Case Study - How to display 10 second countdown?](https://onedrive.live.com/view.aspx?resid=1F24325A97A0C49E!5287&ithint=file%2cpptx&wdo=2&authkey=!AFyoeSh2u_VF_No)<br />
